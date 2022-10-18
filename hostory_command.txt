@@ -1,0 +1,38 @@
+    1  git --version
+    2  git config --global user.name "Gangrae Hong"
+    3  git config --global user.email wertytrygfh@gmail.com
+    4  git config --global init.defaultBranch main
+    5  git config --list
+    6  git config user.name
+    7  git branch
+    8  git
+    9  git --version
+   10  cd C:\Education
+   11  \Education>git clone https://github.com/HongGR/git-practice.git
+   12  C:\Education>git clone https:\\github.com/HongGR/git-pratice.git
+   13  git clone https:\\github.com/HongGR/git-practice.git
+   14  pwd
+   15  git config --global core.editor "winpty nano"
+   16  pwd
+   17  cd C:\Education
+   18  pwd
+   19  ls-lh
+   20  ls -lh
+   21  pwd
+   22  ls -lh
+   23  ls -lh> file_list.txt
+   24  ls -lh
+   25  ls -lh >> file_list.txt
+   26  cat file_list.txt
+   27  cat words.txt
+   28  sort < words.txt > sorted_words.txt
+   29  cat sorted_words.txt
+   30  cat words.txt
+   31  chmod 644 words.txt
+   32  ls -lh
+   33  nano myscript.sh
+   34  pwd
+   35  cd C:\Education
+   36  pwd
+   37  nano myscript.sh
+   38  history > hostory_command.txt

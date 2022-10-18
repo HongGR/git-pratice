@@ -1,0 +1,8 @@
+total 0
+-rw-r--r-- 1 werty 197609 0 Oct 18 23:20 README.md
+-rw-r--r-- 1 werty 197609 0 Oct 18 23:21 file_list.txt
+-rw-r--r-- 1 werty 197609 0 Oct 18 22:53 git
+total 1.0K
+-rw-r--r-- 1 werty 197609   0 Oct 18 23:20 README.md
+-rw-r--r-- 1 werty 197609 159 Oct 18 23:21 file_list.txt
+-rw-r--r-- 1 werty 197609   0 Oct 18 22:53 git
